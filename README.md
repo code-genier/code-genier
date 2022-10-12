@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-got my badges from HACTOBERFEST 2022 ✨
+I got my badges from HACTOBERFEST 2022 ✨
 [![@aayush1607's Holopin board](https://holopin.me/aayush1607)](https://holopin.io/@aayush1607)
